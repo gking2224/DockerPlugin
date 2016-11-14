@@ -18,7 +18,6 @@ class DockerPluginExtension {
     
     private Project project;
     
-
     public DockerPluginExtension(Project project) {
         this.project = project;
     }
